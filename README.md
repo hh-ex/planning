@@ -17,4 +17,4 @@ Also check out the [Plataformatec sticker shop.](https://www.stickermule.com/use
 [![](https://d21ii91i3y6o6h.cloudfront.net/gallery_images/from_proof/1972/small/1410733855/hacking-beautiful-code.png)](https://www.stickermule.com/marketplace/1972-hacking-beautiful-code)
 
 ## Code of Conduct
-While with us, you must comply to our [Code of Conduct](https://github.com/hh-ex/planning/blob/master/Code-of-Conduct.md)
+While with us, you must comply to our [Code of Conduct](https://github.com/hh-ex/planning/blob/master/Code-of-Conduct.md).
