@@ -8,7 +8,8 @@ If you want to contribute to the meetup please feel free to do so and jopin us o
 We value every contribution!
 
 ## Stickers
-*hh.ex stickers will be available soon*
+Buy your hh.ex stickers on stickermule!
+[![](https://d21ii91i3y6o6h.cloudfront.net/gallery_images/from_proof/10480/large/1455101636/hh-dot-ex.png)](https://www.stickermule.com/marketplace/10480-hh-dot-ex)
 
 Also check out the [Plataformatec sticker shop.](https://www.stickermule.com/user/1070631438/stickers)
 
