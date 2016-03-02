@@ -1,9 +1,9 @@
 # hh.ex Hamburgs Elixir User Group
 ## What's in here?
-We want the hh.ex meetup as open and transparant as possible, that is why the whole organization of the user group takes place in public. In this repository we are going to plan the regular meetups, collecting and discussiong idea, and search for new venues, speakers and maybe sponsors.
+We want the hh.ex meetup as open and transparent as possible. That's why the whole organization of the user group takes place in public. In this repository, we are going to plan the regular meetups, collect and discuss ideas, search for new venues, speakers, and maybe sponsors.
 
 ## Contribute!
-If you want to contribute to the meetup please feel free to do so and jopin us on this repos issue page. There you can find (or just open) a issue per meetup. Where we talk about the format, location and generalities. Also if you want to invite the hh.ex group to your company just jump in, we are happy to see new supporters. In case lyu want to propose a talk, also jump in open a issue, or join forces on a regular meetups issue.
+If you want to contribute to the meetup, please feel free to do so and jump in on this repo's issue page. There you can find (or just open) an issue per meetup. In that issue, we talk about the format, location and generalities. Also, if you want to invite the hh.ex group to your company, just jump in; we are happy to see new supporters. In case you want to propose a talk, also jump in and open an issue. Last but not least, feel free to join forces on a regular meetups issue.
 
 We value every contribution!
 
