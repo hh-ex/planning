@@ -3,6 +3,7 @@
 - [ ] Agenda
 - [ ] prepare katas if applicable
 - [ ] Location
+- [ ] Goodies (Stickers, Pens, ...)
 - [ ] Format
 - [ ] Announce meetup.com event (triggers mail)
 
