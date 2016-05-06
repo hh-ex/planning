@@ -3,7 +3,6 @@
 - [ ] Agenda
 - [ ] prepare katas if applicable
 - [ ] Location
-- [ ] Format
 - [ ] Announce meetup.com event (triggers mail)
 
 # Execute
@@ -14,3 +13,4 @@ Agenda:
 - 18:00 Open the doors 
 - 18:30 Welcome 
 - ...
+- Hang out and have beers, coke, mate or whats-o-ever 🍻
