@@ -7,6 +7,11 @@ If you want to contribute to the meetup, please feel free to do so and jump in o
 
 We value every contribution!
 
+## Cocktail
+Do the first hh-ex cocktail at home with this [recipe](https://github.com/hh-ex/planning/blob/master/cocktail.md)
+
+<img src="https://pbs.twimg.com/media/CoTidIRXYAA4m60.jpg" width="400px"/>
+
 ## Stickers
 Buy your hh.ex stickers on stickermule!
 
