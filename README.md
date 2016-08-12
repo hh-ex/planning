@@ -1,4 +1,4 @@
-# hh.ex Hamburgs Elixir User Group
+# hh.ex Hamburgs [Elixir](http://elixir-lang.org) User Group
 ## What's in here?
 We want the hh.ex meetup as open and transparent as possible. That's why the whole organization of the user group takes place in public. In this repository, we are going to plan the regular meetups, collect and discuss ideas, search for new venues, speakers, and maybe sponsors.
 
