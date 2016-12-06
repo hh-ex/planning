@@ -1,7 +1,6 @@
 # Plan
 - [ ] Create meetup.com event
 - [ ] Agenda
-- [ ] Write Sheila Chang <sheila.chang@plataformatec.com.br> to include it in Elixir Radar
 - [ ] prepare katas if applicable
 - [ ] Location
 - [ ] Announce meetup.com event (triggers mail)
