@@ -2,6 +2,10 @@
 
 **Start time:** 06:30 PM
 
+Headline:
+
+## Month Edition
+
 Example:
 ```
 The very first meet up of hh.ex the Hamburg Elixir Community!
