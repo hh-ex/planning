@@ -4,6 +4,7 @@
 - [ ] prepare katas if applicable
 - [ ] Location
 - [ ] Announce meetup.com event (triggers mail)
+- [ ] Promote on Twitter
 
 # Execute
 - **Date:** Month xxth
