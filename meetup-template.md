@@ -16,8 +16,7 @@ We want to get to know each other better and design the user group experience to
 - 18:30 Welcome 
 - Introduction of the organisers 
 - Getting to know each other 
-- Collect ideas for talks and activities for following meet ups 
-- Hang out and have beers, coke, mate or whats-o-ever 🍻
+- Hang out, have beers, coke, mate or whats-o-ever and talk Elixir 🍻
 
 🎉 We will have schnittchen 🎉 
 ```
