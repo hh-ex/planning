@@ -1,5 +1,4 @@
 # Plan
-- [ ] Create meetup.com event
 - [ ] Agenda
 - [ ] prepare katas if applicable
 - [ ] Location
