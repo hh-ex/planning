@@ -12,16 +12,5 @@ Do the first hh-ex cocktail at home with this [recipe](https://github.com/hh-ex/
 
 <img src="https://pbs.twimg.com/media/CoTidIRXYAA4m60.jpg" width="400px"/>
 
-## Stickers
-Buy your hh.ex stickers on stickermule!
-
-[![](https://d21ii91i3y6o6h.cloudfront.net/gallery_images/from_proof/10480/large/1455101636/hh-dot-ex.png)](https://www.stickermule.com/marketplace/10480-hh-dot-ex)
-
-Also check out the [Plataformatec sticker shop.](https://www.stickermule.com/user/1070631438/stickers)
-
-[![](https://d21ii91i3y6o6h.cloudfront.net/gallery_images/from_proof/1969/small/1410733654/elixir.png)](https://www.stickermule.com/marketplace/1969-elixir)
-
-[![](https://d21ii91i3y6o6h.cloudfront.net/gallery_images/from_proof/1972/small/1410733855/hacking-beautiful-code.png)](https://www.stickermule.com/marketplace/1972-hacking-beautiful-code)
-
 ## Code of Conduct
 While with us, you must comply to our [Code of Conduct](https://github.com/hh-ex/planning/blob/master/Code-of-Conduct.md).
