@@ -7,6 +7,8 @@ If you want to contribute to the meetup, please feel free to do so and jump in o
 
 We value every contribution!
 
+If you would simply like to participate, you can ignore everything in the repository and use our meetup.com page: https://www.meetup.com/Elixir-Hamburg/
+
 ## Cocktail
 Do the first hh-ex cocktail at home with this [recipe](https://github.com/hh-ex/planning/blob/master/cocktail.md)
 
