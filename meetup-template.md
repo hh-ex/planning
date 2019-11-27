@@ -8,6 +8,8 @@ Headline:
 
 Example:
 ```
+💻 Please bring your Laptop, we want to code together! 💻
+
 The very first meet up of hh.ex the Hamburg Elixir Community!
 
 We want to get to know each other better and design the user group experience together. So we have the following agenda:
