@@ -24,4 +24,9 @@ Little blurp on things we will do this Edition, giving a general idea what we wi
 Place for Abstracts of talks, speaker intros, or other lenghty content.
 
 🎉 We may be schnittchen 🎉 
+
+P.S. HH.ex is not your regular bite-sized conference. This is an inclusive space, that is from the local Elixir community for the local Elixir community. We rely on your input! Everything regarding this meetup is organized in public.
+
+📣 We are always looking for content, if you'd like to give a talk or prepare a coding kata please join us.
+ℹ️ https://github.com/hh-ex/planning
 ```
