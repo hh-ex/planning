@@ -8,18 +8,20 @@ Headline:
 
 Example:
 ```
-💻 Please bring your Laptop, we want to code together! 💻
+💻 Please maybe bring your Laptop, we want to code together! 💻
 
-The very first meet up of hh.ex the Hamburg Elixir Community!
+A nice, short, and seasonal introduction!
 
-We want to get to know each other better and design the user group experience together. So we have the following agenda:
+Little blurp on things we will do this Edition, giving a general idea what we will do this meetup. So we have the following agenda:
 
 - 18:00 Open the doors
 - 18:30 Welcome
 - Potential slots for 5 minutes of stage time (Lightning Talks)
-- Introduction of the organisers
-- Getting to know each other
+- _A non-talk activity for the meetup group from one of our regular formats_
+- _A talk from user grouop member, that has been oragnized via the GitHub repo_
 - Hang out, have beers, coke, mate or whats-o-ever and talk Elixir 🍻
 
-🎉 We will have schnittchen 🎉 
+Place for Abstracts of talks, speaker intros, or other lenghty content.
+
+🎉 We may be schnittchen 🎉 
 ```
